@@ -9,7 +9,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<!-- <relativePath>../MicSer/pom.xml</relativePath> --> 
 	</parent>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 	<groupId>com.ankz</groupId>
 	<artifactId>MicSerConfigServerApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
